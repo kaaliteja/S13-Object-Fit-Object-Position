@@ -1,0 +1,85 @@
+body{
+    background-color:crimson;
+}
+img{
+    width: 160px;
+    height: 600px;
+    object-fit: cover
+}
+
+h1{
+    text-align: center;
+    background-color: aqua;
+    color: black;
+    font-family: serif;
+}
+
+#vaishnavTej{
+    object-position:-130px 180px ;
+}
+
+#varunTej{
+    object-position:-130px 140px ;
+}
+
+#alluArjun{
+    object-position:-130px 100px ;
+}
+
+#nagaBabu{
+    object-position:-230px 60px ;
+}
+
+#chiranJeevi{
+    object-position:-120px 20px ;
+}
+
+#pawanKalyan{
+    object-position:-180px 60px ;
+}
+
+#ramCharan{
+    object-position:-150px 100px ;
+}
+
+#sirish{
+    object-position:-140px 140px ;
+}
+#saiDharamTej{
+    object-position:-100px 180px ;
+}
+
+#niharika{
+    object-position:-230px 60px ;
+}
+
+#upasana{
+    object-position:-220px 100px ;  
+}
+
+#nagababuWife{
+    object-position:-120px 140px ;
+}
+
+#surekha{
+    object-position:-90px 180px ;
+}
+
+#mother{
+    object-position:-160px 220px ;
+}
+
+#AAMother{
+    object-position:-10px 180px ;
+}
+#PKWife{
+    object-position:-220px 140px ;
+}
+
+#snehaReddy{
+  object-position:-150px 100px ;   
+}
+
+#lavanyaTripati{
+    object-position:-130px 60px ;
+}
